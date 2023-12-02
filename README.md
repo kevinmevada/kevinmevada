@@ -1,7 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin
 =============================================================================================================================
 
-A passionate learner and aspiring Python developer based Ahmedabad. 👨‍💻 ### About Me - 🌱 I'm currently learning Python and documenting my daily progress for the next 100 days. - 💡 Sharing my journey and discoveries on GitHub daily at \[My Learning Repository\](link-to-your-learning-repo). - 🚀 Open to collaboration and always looking for opportunities to learn and grow. ### My Skills - 🐍 Python | 💻 Web Development | 📊 Data Analysis - 🛠️ Git | 🧠 Problem Solving | 📝 Technical Writing ### Daily Learning Log You can find my daily learning log \[here\](link-to-your-learning-repo), where I share what I've learned each day in my Python learning journey. ### Connect with Me - 📫 Email: mevadakevin@gmail.com ### Open for Internships I'm actively seeking internship opportunities to apply and enhance my Python skills. If you have any exciting projects or opportunities, feel free to reach out! ### Let's Connect and Code Together! 🚀
+A passionate learner and aspiring Python developer based Ahmedabad. 👨‍💻 
+### About Me
+- 🌱 I'm currently learning Python and documenting my daily progress for the next 100 days.
+- 💡 Sharing my journey and discoveries on GitHub daily .
+- 🚀 Open to collaboration and always looking for opportunities to learn and grow.
+
+### My Skills 
+- 🐍 Python | 💻 Web Development | 📊 Data Analysis - 🛠️ Git | 🧠 Problem Solving | 📝 Technical Writing
+- ### Daily Learning Log where I share what I've learned each day in my Python learning journey.
+- ### Connect with Me - 📫 Email: mevadakevin@gmail.com
+- ### Open for Internships I'm actively seeking internship opportunities to apply and enhance my Python skills. If you have any exciting projects or opportunities, feel free to reach out!
+- ### Let's Connect and Code Together! 🚀
 
 <a href="https://www.github.com/kevinmevada" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kevinmevada?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
